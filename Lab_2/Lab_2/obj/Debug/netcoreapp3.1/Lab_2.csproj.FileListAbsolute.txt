@@ -1,0 +1,24 @@
+E:\ООП\Lab_2\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.exe
+E:\ООП\Lab_2\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.deps.json
+E:\ООП\Lab_2\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.runtimeconfig.json
+E:\ООП\Lab_2\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.runtimeconfig.dev.json
+E:\ООП\Lab_2\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.dll
+E:\ООП\Lab_2\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.pdb
+E:\ООП\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.csprojAssemblyReference.cache
+E:\ООП\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.AssemblyInfoInputs.cache
+E:\ООП\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.AssemblyInfo.cs
+E:\ООП\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.dll
+E:\ООП\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.pdb
+D:\LABS\Git Labs\OOP-Labs\Lab_2\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.exe
+D:\LABS\Git Labs\OOP-Labs\Lab_2\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.deps.json
+D:\LABS\Git Labs\OOP-Labs\Lab_2\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.runtimeconfig.json
+D:\LABS\Git Labs\OOP-Labs\Lab_2\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.runtimeconfig.dev.json
+D:\LABS\Git Labs\OOP-Labs\Lab_2\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.dll
+D:\LABS\Git Labs\OOP-Labs\Lab_2\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.pdb
+D:\LABS\Git Labs\OOP-Labs\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.csprojAssemblyReference.cache
+D:\LABS\Git Labs\OOP-Labs\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.AssemblyInfoInputs.cache
+D:\LABS\Git Labs\OOP-Labs\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.AssemblyInfo.cs
+D:\LABS\Git Labs\OOP-Labs\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.csproj.CoreCompileInputs.cache
+D:\LABS\Git Labs\OOP-Labs\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.dll
+D:\LABS\Git Labs\OOP-Labs\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.pdb
+D:\LABS\Git Labs\OOP-Labs\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.genruntimeconfig.cache
